@@ -56,7 +56,7 @@ This project will integrate I94 immigration data, world temperature data and US 
 2. Parse description file to get auxiliary dimension table - country_code, city _code, state _code, mode, visa
 3. Tranform city, state to upper case to match city _code and state _code table
 
-Please refer to [Capstone_Project.ipynb](https://github.com/KentHsu/Udacity-DEND/blob/main/Capstone%20Project/Capstone_Project.ipynb).
+Please refer to [Capstone_Project.ipynb](https://github.com/adeldajani/Data-Engineering-Capstone-Project/blob/main/Capstone_Project.ipynb).
 
 (This step was completed in Udacity workspace as pre-steps for building up and testing the ETL data pipeline. File paths should be modified if notebook is run locally.)
 

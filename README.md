@@ -69,7 +69,7 @@ Since the purpose of this data warehouse is for OLAP and BI app usage, we will m
 
 * Star Schema
 
-	![alt text](https://github.com/KentHsu/Udacity-DEND/blob/main/Capstone%20Project/images/conceptual_data_model.png)
+	![alt text](https://github.com/adeldajani/Data-Engineering-Capstone-Project/blob/main/images/conceptual_data_model.png)
 
 #### Data Pipeline Build Up Steps
 
@@ -93,7 +93,7 @@ Since the purpose of this data warehouse is for OLAP and BI app usage, we will m
 
 Data processing and data model was created by Spark.
 
-Please refer to [Capstone_Project.ipynb](https://github.com/KentHsu/Udacity-DEND/blob/main/Capstone%20Project/Capstone_Project.ipynb).
+Please refer to [Capstone_Project.ipynb](https://github.com/adeldajani/Data-Engineering-Capstone-Project/blob/main/Capstone_Project.ipynb).
 
 #### 4.2 Data Quality Checks
 
@@ -102,11 +102,11 @@ Data quality checks includes
 1. No empty table after running ETL data pipeline
 2. Data schema of every dimensional table matches data model
 
-Please refer to [Data_Quality_Check.ipynb](https://github.com/KentHsu/Udacity-DEND/blob/main/Capstone%20Project/Data_Quality_Check.ipynb).
+Please refer to [Data_Quality_Check.ipynb](https://github.com/adeldajani/Data-Engineering-Capstone-Project/blob/main/Data_Quality_Check.ipynb).
 
 #### 4.3 Data dictionary 
 
-![alt text](https://github.com/KentHsu/Udacity-DEND/blob/main/Capstone%20Project/images/data_dictionary.png)
+![alt text](https://github.com/adeldajani/Data-Engineering-Capstone-Project/blob/main/images/data_dictionary.png)
 
 ---
 
